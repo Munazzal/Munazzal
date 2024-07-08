@@ -2,6 +2,6 @@
 - 👀 I’m interested in JavaScript.
 - 🌱 I’m currently learning Node JavaScript.
 - 💞️ I’m looking to collaborate on: Not Sure.
-- 📫 How to reach me: You can email me at svageplan9@gmail.com.
+- 📫 How to reach me: You can email me at savageplan9@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am doing coding since i was 8 years olds.
